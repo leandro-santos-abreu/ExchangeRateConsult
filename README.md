@@ -1,21 +1,15 @@
 # ExchangeRateConsult
 Concurrent and Distributed Programming - Project 01
 
-Desenvolva um programa que consuma a API externa do ExchangeRate-API e exiba na saída
-padrão informações sobre as taxas de câmbio do dólar americano em relação a outras moedas. O
-programa deve ser capaz de realizar uma requisição HTTP para a API, manipular os dados
-retornados em formato JSON e exibir as informações na saída padrão.
-O programa deve exibir na saída padrão as seguintes informações sobre as taxas de câmbio do
-dólar americano em relação a outras moedas:
+Develop a program that consumes the external ExchangeRate-API and displays information about the exchange rates of the US dollar against other currencies on the standard output. The program should be capable of making an HTTP request to the API, handling the returned data in JSON format, and displaying the information on the standard output.
+The program should display the following information about the exchange rates of the US dollar against other currencies on the standard output:
 
-● Taxa de câmbio em relação ao real brasileiro (BRL)
-● Taxa de câmbio em relação ao euro (EUR)
-● Taxa de câmbio em relação ao iene japonês (JPY)
+● Exchange rate against the Brazilian real (BRL)
+● Exchange rate against the euro (EUR)
+● Exchange rate against the Japanese yen (JPY)
 
-Requisitos:
+Requirements:
 
-● Ler a documentação de uso da API em: https://www.exchangerate-api.com/docs/overview .
-● O programa deve realizar uma requisição HTTP para a API e manipular os dados retornados
-em formato JSON para exibição na saída padrão.
-● O programa deve exibir na saída padrão informações sobre as taxas de câmbio do dólar
-americano em relação a outras moedas, conforme descrito acima.
+● Read the API usage documentation at: https://www.exchangerate-api.com/docs/overview .
+● The program should make an HTTP request to the API and handle the returned data in JSON format for display on the standard output.
+● The program should display information about the exchange rates of the US dollar against other currencies on the standard output, as described above.
